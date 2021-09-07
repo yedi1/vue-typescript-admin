@@ -2,8 +2,8 @@
   <div class="login-container">
     <el-form ref="loginForm" :model="loginForm" :rules="loginRules" class="login-form" autocomplete="on" label-position="left">
       <div class="title-container">
-        <img src="@/assets/imgs/registerLogo.png" alt="" />
-        <h3 class="title">十荟团项目管理系统</h3>
+        <!-- <img src="@/assets/imgs/registerLogo.png" alt="" /> -->
+        <h3 class="title">yedi-项目管理系统</h3>
         <!-- <lang-select class="set-language" /> -->
       </div>
 
